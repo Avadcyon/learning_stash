@@ -1,3 +1,8 @@
+<iostream>
+#include <sstream>
+#include <string>
+#include <fstream>
+using namespace std;
 
 struct Node {
 	Node* prev;
